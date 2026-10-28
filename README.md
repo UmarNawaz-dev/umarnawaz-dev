@@ -76,7 +76,7 @@ A healthcare platform connecting doctors, patients, clinics, and administrators,
 I'm interested in building useful products, solving backend engineering challenges, and collaborating on well-designed software.
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/umar-nawaz-237a16300/)
-- 🧑‍💻 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/UmarNawaz-dev)
+- 🧑‍💻 GitHub: [umarnawaz-dev](https://github.com/UmarNawaz-dev)
 
 ---
 
