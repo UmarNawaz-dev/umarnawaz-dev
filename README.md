@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Umar Nawaz 👋
+# Hi, I'm Umar Nawaz
 
 ### Software Engineer | Backend-Focused Full-Stack Developer
 
